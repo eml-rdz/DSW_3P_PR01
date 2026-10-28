@@ -1,0 +1,5 @@
+[
+  { "Id": 1, "Nombre": "Explorar las ruinas", "Dificultad": "Fácil", "RecompensaXP": 100, "Completada": false },
+  { "Id": 2, "Nombre": "Derrotar al guardián", "Dificultad": "Media", "RecompensaXP": 250, "Completada": false },
+  { "Id": 3, "Nombre": "Recuperar el cristal antiguo", "Dificultad": "Difícil", "RecompensaXP": 500, "Completada": false }
+]
